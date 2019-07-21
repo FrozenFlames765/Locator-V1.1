@@ -1,0 +1,24 @@
+Latitude: 3.7445071
+Longitude: 98.4967719
+User-Agent: Mozilla/5.0 (Linux; Android 5.1; B11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+Altitude: null
+Accuracy: 16
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 570
+Screen Width: 320
+Latitude: 3.7445071
+Longitude: 98.4967719
+User-Agent: Mozilla/5.0 (Linux; Android 5.1; B11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+Altitude: null
+Accuracy: 18.96500015258789
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 570
+Screen Width: 320

@@ -1,0 +1,12 @@
+Latitude: 
+Longitude: 
+User-Agent: 
+Altitude: 
+Accuracy: 
+Speed: 
+Heading: 
+Platform: 
+Cores: 
+Memory: 
+Screen Height: 
+Screen Width: 
