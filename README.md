@@ -8,3 +8,7 @@ Inget Tuhan Selalu Lihat:)
 Solat Adalah Tiang Agama Untuk Elu Yang Islam
 
 Tools By Mr.Frozen / Frozen FLames
+
+MenjalanKan Tools Nya
+
+bash locator.sh
